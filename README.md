@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Brutols
-- 👀 Looking for a job as: Front End Developer
-- 🌱 I’m currently learning React
+- 👀 Working as javascript developer
+- 🌱 Currently building an app with react native
 - 📫 How to reach me: dtwo97@gmail.com
